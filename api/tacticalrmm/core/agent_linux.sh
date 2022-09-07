@@ -13,7 +13,7 @@ if [ "${HAS_SYSTEMD}" != 'systemd' ]; then
 fi
 
 agentDL='https://rmm.gtastic.xyz'
-meshDL='https://mesh.gtastic.xyz/meshagents?id=koVABGN54efdOKIHr7KturaF0ipVoc%40Hb5ywqPyILBUMkNhtOmr22IBfuL2PnM9f&installflags=0&meshinstall=6'
+meshDL='https://mesh.gtastic.xyz/meshagents?id=koVABGN54efdOKIHr7KturaF0ipVoc%40Hb5ywqPyILBUMkNhtOmr22IBfuL2PnM9f'
 
 apiURL='https://api.gtastic.xyz'
 token='cd0db3f0e276d3d5ce146c4698664199e65c587c598a77a1817123b079c90aba'
